@@ -18,6 +18,10 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com #gemini
 
+DOMAIN-SUFFIX,codeium.ai​
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,firebase.googleapis.com
+
 # notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
@@ -26,9 +30,14 @@ DOMAIN-SUFFIX,notionusercontent.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-KEYWORD,youtube
 
 # tiktok
 DOMAIN-SUFFIX,tiktok.com
 
 # jetbrans
 DOMAIN-SUFFIX,jetbrans.com
+
+# facebook
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,facebook.com
