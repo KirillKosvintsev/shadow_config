@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
@@ -31,9 +32,18 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-KEYWORD,youtube
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
 
 # tiktok
 DOMAIN-SUFFIX,tiktok.com
+DOMAIN-KEYWORD,tiktok
 
 # jetbrans
 DOMAIN-SUFFIX,jetbrans.com
@@ -41,9 +51,13 @@ DOMAIN-SUFFIX,jetbrans.com
 # facebook
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,instagram.com
 
 # marketing
 DOMAIN-SUFFIX,semrush.com
 
 # canva
 DOMAIN-SUFFIX,canva.com
+
+# else
+DOMAIN-SUFFIX,kino.pub,PROXY
