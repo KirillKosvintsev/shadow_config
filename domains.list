@@ -17,7 +17,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,sora.com
-DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com #gemini
+DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com
 
 DOMAIN-SUFFIX,codeium.ai​
 DOMAIN-SUFFIX,codeium.com
@@ -60,4 +60,4 @@ DOMAIN-SUFFIX,semrush.com
 DOMAIN-SUFFIX,canva.com
 
 # else
-DOMAIN-SUFFIX,kino.pub,PROXY
+DOMAIN-SUFFIX,kino.pub
