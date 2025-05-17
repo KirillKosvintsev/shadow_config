@@ -61,3 +61,24 @@ DOMAIN-SUFFIX,canva.com
 
 # else
 DOMAIN-SUFFIX,kino.pub
+
+
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,messenger.com
+
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,x.com
+
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,igcdn-photos-e-a.akamaihd.net
+DOMAIN-SUFFIX,instagramstatic.com
+
+DOMAIN-SUFFIX,instagram.fna.whatever-cdn.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+
