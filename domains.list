@@ -48,6 +48,13 @@ DOMAIN-KEYWORD,tiktok
 # jetbrans
 DOMAIN-SUFFIX,jetbrans.com
 
+# github
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,api.business.githubcopilot.com
+DOMAIN-SUFFIX,api.githubcopilot.com
+DOMAIN-SUFFIX,origin-tracker.githubusercontent.com
+
 # facebook
 DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,facebook.com
@@ -55,6 +62,7 @@ DOMAIN-SUFFIX,instagram.com
 
 # marketing
 DOMAIN-SUFFIX,semrush.com
+DOMAIN-SUFFIX,framer.com
 
 # canva
 DOMAIN-SUFFIX,canva.com
