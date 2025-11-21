@@ -1,0 +1,60 @@
+{
+    "window.commandCenter": false,
+    "cursor.composer.shouldChimeAfterChatFinishes": true,
+    "explorer.confirmDelete": false,
+    "cursor.cpp.enablePartialAccepts": true,
+    "cursor.composer.usageSummaryDisplay": "always",
+    "workbench.iconTheme": "minimalistic-icons",
+    "workbench.activityBar.orientation": "vertical",
+    // "workbench.activityBar.location": "hidden",
+    "window.zoomLevel": 0.5,
+    "files.autoSave": "afterDelay",
+    "editor.smoothScrolling": true,
+    "workbench.tree.indent": 16,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "files.defaultLanguage": "python",
+    "editor.folding": false,
+    // "window.density.editorTabHeight": "compact",
+    "material-icon-theme.hidesExplorerArrows": true,
+    // "workbench.layoutControl.enabled": false,
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontLigatures": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+
+
+// Настройки для Breadcrumbs
+    "breadcrumbs.icons": false,
+    "breadcrumbs.showKeys": false,
+    "breadcrumbs.showFiles": false,
+    "breadcrumbs.symbolPath": "off",
+    "breadcrumbs.showArrays": false,
+    "breadcrumbs.showEvents": false,
+    "breadcrumbs.showFields": false,
+    "breadcrumbs.showClasses": false,
+    "breadcrumbs.showMethods": false,
+    "breadcrumbs.showBooleans": false,
+    "breadcrumbs.showFunctions": false,
+    "breadcrumbs.showConstants": false,
+    "breadcrumbs.showEnumMembers": false,
+    "breadcrumbs.showConstructors": false,    
+
+
+"workbench.colorCustomizations": {
+
+    // Git decorations - минималистичная схема в серо-голубых тонах
+    "gitDecoration.modifiedResourceForeground": "#e5c07b",        // Теплый желтый - modified
+    "gitDecoration.untrackedResourceForeground": "#61afef",       // Голубой - untracked (новое)
+    "gitDecoration.addedResourceForeground": "#98c379",           // Приглушенный зеленый - staged
+    "gitDecoration.deletedResourceForeground": "#e06c75",         // Мягкий красный - deleted
+    "gitDecoration.ignoredResourceForeground": "#3b4c77",         // Серый - ignored
+    "gitDecoration.conflictingResourceForeground": "#c678dd",     // Фиолетовый - conflicts
+    "gitDecoration.stageModifiedResourceForeground": "#d19a66",   // Оранжевый - staged modified
+    "gitDecoration.stageDeletedResourceForeground": "#be5046",    // Темно-красный - staged deleted
+    "gitDecoration.submoduleResourceForeground": "#56b6c2",       // Циан - submodules
+},
+"git.confirmSync": false,
+}
